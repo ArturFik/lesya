@@ -53,7 +53,7 @@
 
       <div class="details">
         <div class="detail-item">
-          <span class="detail-label">📅 Когда:</span>
+          <span class="detail-label">Когда:</span>
           <span class="detail-value"><strong>3 июля 2026 в 15:00</strong></span>
         </div>
         <div class="detail-item">
@@ -61,8 +61,8 @@
           <span class="detail-value">ул. Новгородская, 58/1</span>
         </div>
         <div class="detail-item">
-          <span class="detail-label">Возраст:</span>
-          <span class="detail-value"><strong>18+</strong></span>
+          <span class="detail-label">Возраст: <span class="detail-value"><strong>18+</strong></span></span>
+          
         </div>
       </div>
 
